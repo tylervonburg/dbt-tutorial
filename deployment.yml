@@ -1,6 +1,6 @@
 # Choose the version of dbt that will run the project. Supported versions: 0.17.2, 0.18.0, 0.18.1.
 # If the version is not specified, the version 0.18.0 will be used.
-dbtVersion: 0.18.1
+# dbtVersion: 0.18.1
 
 jobs:
 # Give each job a unique name. The name will be displayed in the Fivetran dashboard once your jobs are imported.
